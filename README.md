@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 Previously, I studied in Shanghai and have achieved Data Science and Big Data Technology Bachelor's degree.
-- 🔭 Currently, I'm studying at Monash University in Melbourne and working in progress on getting Artificial Intelligence Master's degree.
 - ⚡ Fun fact: I have Big4s experience for about 1 year in the area of Digital Transformation Consulting industry on the business side.
 - 📫 I'm fully proficient in English~ Welcome to reach out to me.
 - ✨ **It takes efforts to seem effortless. Life is short similiar to some kinda game, just tryin' to become a game-changer and reshape the future with technology.**
